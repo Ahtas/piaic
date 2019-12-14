@@ -7,5 +7,7 @@ Functions : print, chr, randint, id, dir
 
 ### Assignment # 2 : Execute all string functions available
 
+### Assignment # 3 : Write and Execute all excercises performed in classroom
+
 
 
